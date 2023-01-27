@@ -1,0 +1,3 @@
+Python is a powerful, high-level, general-purpose programming language.It is widely used for developing web applications, data science, scripting and automation. It is an interpreted language, which means the code is translated into machine language and executed line-by-line. 
+Python is cross-platform and supports object-oriented programming, functional programming, and procedural programming. 
+Python also offers a rich library of modules and packages, making it easy to develop complex applications.
